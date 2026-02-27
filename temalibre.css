@@ -1,0 +1,100 @@
+body{
+  background-color: #090420;
+  font-family: Arial;
+  color: white;
+  margin: 0;
+  padding: 0;
+}
+
+header{
+  text-align: center;
+  background-color: #04020d;
+  padding: 30px 20px;
+}
+
+
+h1{
+  color: #dfceae;
+  font-size: 42px;
+  margin: 0;
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+ 
+}
+header p{
+  margin-top: 10px;
+  color: #cfcfe6;
+  font-size: 16px;
+}
+
+
+ul{
+  list-style: none;
+  padding: 0;
+  margin-top: 20px;
+}
+
+ul li{
+font-style: none;
+  display: inline-block;
+  background-color: #b8c2a5;
+  padding: 12px 18px;
+  margin: 8px;
+  border-radius: 10px;
+}
+
+
+ul li a{
+  text-decoration: none;
+  color: rgb(118, 50, 50);
+  font-weight: bold;
+  font-size: 16px;
+}
+
+
+ul li:hover{
+  background-color: #d2dbc0;
+  cursor: pointer;
+}
+
+
+section{
+    text-align: center;
+  background-color: #04020d;
+  padding: 20px;
+  margin: 25px;
+  border-radius: 12px;
+}
+
+h2{
+  color: #00c2ff;
+  margin-top: 0;
+}
+
+p{
+  line-height: 1.6;
+  font-size: 18px;
+}
+a{
+    text-decoration: none;
+    color: #b8c2a5;
+}
+section{
+    color: rgb(43, 223, 226);
+    
+}
+
+h1{
+    font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  
+}
+footer{
+    text-align: center;
+    padding: 2rem;
+    margin-top: 3rem;
+    background-color: rgb(34, 10, 57);
+    font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+font-size: 2.5rem;
+}
